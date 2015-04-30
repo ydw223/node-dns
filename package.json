@@ -30,7 +30,7 @@
   "dependencies": {
     "ipaddr.js": "~0.1.3",
     "native-dns-cache": "~0.0.2",
-    "native-dns-packet": "~0.1.1"
+    "native-dns-packet": "git://github.com/ydw223/native-dns-packet.git"
   },
   "devDependencies": {
     "optimist": "",
